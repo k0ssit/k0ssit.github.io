@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+* {
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}	
+body{
+
+	background-image: url('https://besthqwallpapers.com/img/original/84513/blue-neon-masonry-texture-neon-brick-texture-black-background-neon-abstraction-masonry.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    font-family: 'Akaya Telivigala', cursive;
+}
+header{
+
+text-align: center;
+background-color:#07757d; 
+height: 60px;
+color:#07757d;
+font-family:  sans-serif;
+font-weight: 900;
+margin-bottom:70px;
+}
+
+    footer {
+        background-color: #09026b;
+        bottom: 0;
+        width: 100%;
+    }
+
+.content{
+	background-color: #09026b;
+	width: 80%;
+	margin: 0px auto;
+	padding: 10px;
+}
+.content h1{
+text-align: center;
+color: #7143b5;
+
+}
+.row{
+
+	display: flex;
+}
+.box p{
+
+
+	font-size: 25px;
+}
+.box{
+background-color: blue;
+margin: 10px;
+padding: 15px;
+flex-grow: 1;
+border-radius: 10px;
+}
+ img {
+max-height: 100%;
+max-width: 350px;
+border: 10px outset darkblue;
+border-radius: 20px;
+box-shadow: 10px 10px black;
+float: left;
+margin-right: 20px; }
+
+
+ul {
+        list-style: none;
+        padding: 0;
+}
+.menu li {
+    display: inline-block;
+    padding: 25px;
+    color: white;
+
+    
+}
+
+.menu li:hover {
+    background-color: #7143b5;
+    color: black;
+}
+
+.menu {
+
+    box-shadow: 4px 5px 15px rgba(0, 0, 0, 0.5);
+    background-color: blue;
+
+    margin-top:20px;
+}
+p{color:purple ;}
+
+	a{color:yellow}
