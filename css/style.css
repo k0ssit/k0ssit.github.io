@@ -18,9 +18,9 @@ body{
 header{
 
 text-align: center;
-background-color: #09026b; 
+background-color:#07757d; 
 height: 60px;
-color:#7143b5;
+color:#07757d;
 font-family:  sans-serif;
 font-weight: 900;
 margin-bottom:70px;
@@ -94,3 +94,5 @@ ul {
     margin-top:20px;
 }
 p{color:purple ;}
+
+	a{color:yellow}
